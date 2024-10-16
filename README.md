@@ -1,1 +1,1 @@
-# Telecommunication_Customer_Ahurn_Analysis
+# Telecommunication_Customer_churn_Analysis
